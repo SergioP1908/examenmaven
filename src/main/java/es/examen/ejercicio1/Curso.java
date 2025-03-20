@@ -1,4 +1,4 @@
-package es.examen;
+package es.examen.ejercicio1;
 
 public interface Curso {
 

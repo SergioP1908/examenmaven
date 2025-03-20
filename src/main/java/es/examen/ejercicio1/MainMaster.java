@@ -1,4 +1,4 @@
-package es.examen;
+package es.examen.ejercicio1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
